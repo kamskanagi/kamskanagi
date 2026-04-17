@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Karamo 👋
 
-<!--
-**kamskanagi/kamskanagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Project Engineer | AI & ML Systems | Researcher
 
-Here are some ideas to get you started:
+I build:
+- Agentic AI systems
+- RAG pipelines
+- ML platforms
+- Scalable backend systems
+- Test automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+
+Python | PyTorch | LangChain | Kubernetes | Docker | Node.js
+
+## 🌍 Current Focus
+
+- Agentic AI
+- LLM systems
+- AI & ML infrastructure
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/karamo-kanagi-ph-d-14546526/) | [Portfolio](https://www.labskaramind.com/)
