@@ -64,9 +64,7 @@ to:
 
 If you're working on **AI agents, LLM evaluation, RAG, AI reliability, or production ML systems**, I'd love to connect and exchange ideas.
 
-🌐 Website: [labskaramind.com](https://www.labskaramind.com)
-
-💻 GitHub: [github.com/kamskanagi](https://github.com/kamskanagi)
+🌐 Blog: [labskaramind.com](https://www.labskaramind.com)
 
 ---
 
